@@ -1,0 +1,19 @@
+<h1>Implementierung File Upload</h1>
+ 
+@*
+   must use multipart/form-data   
+*@
+<form method="post" enctype="multipart/form-data">
+    <input type="file" name="file" /> 
+    <button type="submit">Dateien Hochladen</button>
+</form>
+ 
+@*
+    If upload succeeded we will show nice message to user.
+*@
+@if(ViewBag.Message != null)
+{
+    <div class="alert alert-success" style="margin-top:20px">
+        @ViewBag.Message
+    </div>
+}
