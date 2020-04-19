@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CC-Student\\Documents\\Devop\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\owncreation\\HalifaxRevision\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CC-Student\\Documents\\Devop\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\owncreation\\HalifaxRevision\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CC-Student\\Documents\\Devop\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\owncreation\\HalifaxRevision\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\CC-Student\\Documents\\Devop\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\owncreation\\HalifaxRevision\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\CC-Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CC-Student\\Documents\\Devop\\MvcMovie\\obj\\",
+        "outputPath": "C:\\owncreation\\HalifaxRevision\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
