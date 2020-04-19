@@ -1,0 +1,15 @@
+Setup
+
+    Clone, fork or create a template from this repository.
+    Install required dependencies from your terminal by running npm install from the project folder root containing package.json.
+
+ src\>npm install
+
+    Use webpack to compile and bundle the css/js by running npm run build from the project folder root containing webpack.config.js. Webpack will also begin watching these files for changes and re-build as they're modified.
+
+ src\>npm run build
+
+    Open index.html locally in your favorite browser.
+    Modify accordingly - styles, colors and variables can be changed in styles.scss. Refer to the Bulma docs for guidance on how to quickly customize further to suit your tastes using color helpers and variables. See the Flickity docs if you wish to modify the carousel.
+
+Contact

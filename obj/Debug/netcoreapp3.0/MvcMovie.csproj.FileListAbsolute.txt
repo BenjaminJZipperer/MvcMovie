@@ -67,3 +67,4 @@ C:\owncreation\HalifaxRevision\obj\Debug\netcoreapp3.0\MvcMovie.RazorTargetAssem
 C:\owncreation\HalifaxRevision\obj\Debug\netcoreapp3.0\MvcMovie.RazorTargetAssemblyInfo.cs
 C:\owncreation\HalifaxRevision\obj\Debug\netcoreapp3.0\MvcMovie.Views.pdb
 C:\owncreation\HalifaxRevision\obj\Debug\netcoreapp3.0\MvcMovie.csproj.CopyComplete
+C:\owncreation\HalifaxRevision\obj\Debug\netcoreapp3.0\Razor\Views\Home\Upload.cshtml.g.cs
